@@ -60,7 +60,7 @@ A simple reminder application with fast-forward time and delete functionality.
 
 ## 🔄 Dependencies
 
-- **Angular 16+**
+- **Angular 19**
 - **RxJS** (for time management)
 - **Font Awesome** (icons) *(optional)*
 - **Bootstrap** (for responsiveness)
